@@ -1,0 +1,5 @@
+https://github.com/quinnalexaroyer/xscript2data
+https://github.com/quinnalexaroyer/hookshapes
+https://github.com/quinnalexaroyer/reset_hooks
+https://github.com/quinnalexaroyer/copy_armature
+https://github.com/quinnalexaroyer/blender_gear
